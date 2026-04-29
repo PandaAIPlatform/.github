@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/PandaAIPlatform">
-    <img src="https://raw.githubusercontent.com/SharkSleeper/Panda-AI/main/public/pandaai/pandaailogotransparent.png" width="140" alt="Panda AI logo" />
+    <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaailogotransparent.png" width="140" alt="Panda AI logo" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SharkSleeper/Panda-AI/main/public/pandaai/readme-premium-stats.svg" width="1100" alt="Panda AI premium banner" />
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/readme-premium-stats.svg" width="1100" alt="Panda AI premium banner" />
 </p>
 
 <p align="center">
@@ -114,13 +114,28 @@ PandaAIPlatform is built around the idea that calm, premium, high-clarity softwa
 
 ## What We Build
 
-| Area | Focus |
-| --- | --- |
-| AI products | User-facing products built around practical, high-quality AI workflows |
-| Product systems | Shared account, access, billing, and operational foundations |
-| Community surfaces | Connected experiences across website, support, and community channels |
-| Brand infrastructure | A recognizable product identity instead of interchangeable AI visuals |
-| Future business layers | Foundations for team, business, and enterprise-grade evolution |
+| Area | Focus | Key Deliverables |
+| --- | --- | --- |
+| AI products | User-facing products built around practical, high-quality AI workflows | Panda AI workspace, future specialized tools |
+| Product systems | Shared account, access, billing, and operational foundations | Unified auth, premium billing, multi-provider orchestration |
+| Community surfaces | Connected experiences across website, support, and community channels | Discord bot integration, community-driven features |
+| Brand infrastructure | A recognizable product identity instead of interchangeable AI visuals | Logo, banners, consistent design language |
+| Future business layers | Foundations for team, business, and enterprise-grade evolution | Team workspaces, admin controls, enterprise security |
+
+### Brand Assets
+
+PandaAIPlatform maintains a consistent visual identity across all products and surfaces.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaailogotransparent.png" width="200" alt="Panda AI transparent logo" />
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaailogo.png" width="200" alt="Panda AI logo" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaainame.png" width="400" alt="Panda AI name branding" />
+</p>
+
+These assets ensure that Panda AI and future products feel like part of a cohesive, premium ecosystem.
 
 ## Flagship Product
 
@@ -131,7 +146,15 @@ Panda AI is the flagship product in the PandaAIPlatform ecosystem.
 It is designed as a premium AI workspace where users can access strong models, cleaner workflows, better product polish, and a more cohesive environment than the usual fragmented multi-tab experience.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SharkSleeper/Panda-AI/main/public/pandaai/pandaaibanner.png" width="1100" alt="Panda AI banner" />
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaaibanner.png" width="1100" alt="Panda AI banner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaailogo.png" width="400" alt="Panda AI logo" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaainame.png" width="600" alt="Panda AI name" />
 </p>
 
 Core direction behind Panda AI:
@@ -140,6 +163,39 @@ Core direction behind Panda AI:
 - one stronger product identity
 - one clearer path from idea to output
 - one foundation that can grow beyond a single interface
+
+### Product Showcase
+
+Panda AI offers a complete AI experience with multiple surfaces and workflows.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaaibanner.png" width="49%" alt="Panda AI main banner" />
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaaiwhypandaai.png" width="49%" alt="Why choose Panda AI" />
+</p>
+
+Features include:
+
+- **Chat Interface**: Premium conversation experience with strong models
+- **Artifact Generation**: Code, images, text, and files in one place
+- **Discord Integration**: Bot that extends the web experience to communities
+- **Billing & Access**: Unified premium tiers and payment handling
+- **Workflow Continuity**: Seamless transitions between different AI tasks
+
+### Why Panda AI
+
+Panda AI stands out because it combines premium design with practical AI capabilities, creating an experience that feels both powerful and approachable.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/pandaaiwhypandaai.png" width="800" alt="Why Panda AI" />
+</p>
+
+Key differentiators:
+
+- **Unified Experience**: Chat, images, code, and artifacts in one seamless workspace
+- **Premium Polish**: Clean interfaces that prioritize clarity over clutter
+- **Strong Identity**: A recognizable brand that builds trust and memorability
+- **Workflow Continuity**: From prompt to output, everything feels connected
+- **Scalable Foundations**: Built to support individual users, teams, and future business needs
 
 ## Why This Feels Different
 
@@ -237,6 +293,37 @@ timeline
 | Mid term | Expand product depth and ecosystem cohesion |
 | Long term | Grow into stronger business, team, and enterprise capability |
 
+## Vision for Growth
+
+PandaAIPlatform is built with long-term ambition in mind. The vision extends beyond a single product to a full ecosystem of AI experiences.
+
+### Future Products
+
+- Specialized AI tools for specific workflows (e.g., creative suites, developer assistants)
+- Team collaboration features with shared workspaces and permissions
+- Enterprise-grade security, compliance, and scalability
+- Mobile and desktop applications extending the core experience
+
+### Business Evolution
+
+As PandaAIPlatform matures, the focus will shift toward:
+
+- Commercial tiers with advanced features
+- Team management and billing for organizations
+- Enterprise integrations and custom deployments
+- Global expansion and localization
+
+### Community Expansion
+
+Building a vibrant community around Panda AI, including:
+
+- Open-source contributions and extensions
+- Community-driven features and integrations
+- Educational resources and tutorials
+- Partnerships with other AI and tech platforms
+
+This roadmap ensures that PandaAIPlatform remains at the forefront of premium AI product development.
+
 ## Trust And Quality
 
 Trust is part of the product, not a separate afterthought.
@@ -260,6 +347,17 @@ That is how a project stops feeling experimental and starts feeling dependable.
 - Flagship product: [Panda AI](https://github.com/PandaAIPlatform/Panda-AI)
 - Website: [ai.discordlabs.app](https://ai.discordlabs.app)
 - Community: [dc.muzes.xyz](https://dc.muzes.xyz/)
+
+## Creator
+
+PandaAIPlatform is founded and led by [SharkSleeper](https://github.com/SharkSleeper), a developer passionate about building premium AI experiences.
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SharkSleeper?style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/SharkSleeper?style=for-the-badge&logo=github" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/repos/SharkSleeper?style=for-the-badge&logo=github" alt="GitHub repos" />
+  <img src="https://img.shields.io/github/commit-activity/m/SharkSleeper?style=for-the-badge" alt="GitHub commit activity" />
+</p>
 
 ---
 
