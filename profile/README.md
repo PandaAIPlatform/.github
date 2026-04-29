@@ -7,6 +7,7 @@
 </p>
 
 
+
 <p align="center">
   <strong>Building premium AI products that make powerful technology feel simple, refined, and genuinely useful.</strong>
 </p>
@@ -347,14 +348,30 @@ That is how a project stops feeling experimental and starts feeling dependable.
 
 ## Creator
 
-PandaAIPlatform is founded and led by [SharkSleeper](https://github.com/SharkSleeper), a developer passionate about building premium AI experiences.
+PandaAIPlatform is founded and led by [SharkSleeper](https://github.com/SharkSleeper), a passionate developer and creator focused on building premium AI experiences that feel intuitive, reliable, and genuinely useful.
+
+<p align="center">
+  <img src="https://github.com/SharkSleeper.png" width="120" alt="SharkSleeper avatar" style="border-radius: 50%;" />
+</p>
+
+SharkSleeper is the driving force behind Panda AI and the PandaAIPlatform ecosystem. With a background in modern web development, AI integration, and product design, he believes in creating tools that bridge powerful technology with human-centered experiences. His work emphasizes clarity, quality, and long-term value over short-term hype.
+
+### Creator Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/SharkSleeper?style=for-the-badge&logo=github" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/SharkSleeper?style=for-the-badge&logo=github" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/repos/SharkSleeper?style=for-the-badge&logo=github" alt="GitHub repos" />
-  <img src="https://img.shields.io/github/commit-activity/m/SharkSleeper?style=for-the-badge" alt="GitHub commit activity" />
+  <img src="https://img.shields.io/github/languages/top/SharkSleeper?style=for-the-badge" alt="Top language" />
+  <img src="https://img.shields.io/github/languages/count/SharkSleeper?style=for-the-badge" alt="Languages count" />
 </p>
+
+### Connect with SharkSleeper
+
+- **GitHub**: [SharkSleeper](https://github.com/SharkSleeper)
+- **Discord**: [dc.muzes.xyz](https://dc.muzes.xyz/)
+- **Website**: [ai.discordlabs.app](https://ai.discordlabs.app)
+
+SharkSleeper's vision for PandaAIPlatform is to create a lasting ecosystem where AI tools feel like trusted companions, not disposable utilities.
 
 ---
 
