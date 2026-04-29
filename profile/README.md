@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PandaAIPlatform/.github/main/profile/readme-premium-stats.svg" width="1100" alt="Panda AI premium banner" />
-</p>
 
 <p align="center">
   <strong>Building premium AI products that make powerful technology feel simple, refined, and genuinely useful.</strong>
